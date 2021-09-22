@@ -16,7 +16,6 @@
       "item": "Milk"
     },
     { "id": 4, "checked": false, "item": "pen" },
-
     { "id": 5, "checked": false, "item": "Book" }
   ]
 }
